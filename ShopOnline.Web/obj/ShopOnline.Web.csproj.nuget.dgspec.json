@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdoul.Koanda\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
+    "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdoul.Koanda\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj": {
+    "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Web\\ShopOnline.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdoul.Koanda\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectUniqueName": "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Web\\ShopOnline.Web.csproj",
         "projectName": "ShopOnline.Web",
-        "projectPath": "C:\\Users\\Abdoul.Koanda\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
-        "packagesPath": "C:\\Users\\Abdoul.Koanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdoul.Koanda\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\obj\\",
+        "projectPath": "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "packagesPath": "C:\\Users\\koand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Abdoul.Koanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/biberk/_packaging/Apollo/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -73,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
