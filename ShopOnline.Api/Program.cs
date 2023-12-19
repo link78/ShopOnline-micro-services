@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using ShopOnline.Api.Data;
+using ShopOnline.Api.Repositories;
 using ShopOnline.Api.Repositories.Contracts;
 
 namespace ShopOnline.Api
@@ -12,8 +13,7 @@ namespace ShopOnline.Api
 
             // Add services to the container.
 
-            builder.Services.AddDbContextPool<ShopOnlineDbContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("ShopOnlineConnection")));
+           
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -21,7 +21,12 @@ namespace ShopOnline.Api
             builder.Services.AddSwaggerGen();
 
 
-            builder.Services.AddScoped<IProductRepository, IProductRepository>();
+            builder.Services.AddDbContextPool<ShopOnlineDbContext>(options =>
+               options.UseSqlServer(builder.Configuration.GetConnectionString("ShopOnlineConnection")));
+
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
+            // builder.Services.AddScoped<IShoppingCartRepository, ShoppingCartRepository>();
+
 
             var app = builder.Build();
 
