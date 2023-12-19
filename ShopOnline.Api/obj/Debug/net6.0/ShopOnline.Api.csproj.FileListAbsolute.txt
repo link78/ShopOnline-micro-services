@@ -63,3 +63,5 @@ C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Api\obj\Debug\n
 C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.pdb
 C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Api\obj\Debug\net6.0\ShopOnline.Api.genruntimeconfig.cache
 C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Api\obj\Debug\net6.0\ref\ShopOnline.Api.dll
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Moddels.dll
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Api\bin\Debug\net6.0\ShopOnline.Moddels.pdb

@@ -1,0 +1,11 @@
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\bin\Debug\net6.0\ShopOnline.Moddels.deps.json
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\bin\Debug\net6.0\ShopOnline.Moddels.dll
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\bin\Debug\net6.0\ShopOnline.Moddels.pdb
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ShopOnline.Moddels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ShopOnline.Moddels.AssemblyInfoInputs.cache
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ShopOnline.Moddels.AssemblyInfo.cs
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ShopOnline.Moddels.csproj.CoreCompileInputs.cache
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ShopOnline.Moddels.dll
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\refint\ShopOnline.Moddels.dll
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ShopOnline.Moddels.pdb
+C:\Users\koand\source\repos\ShopOnline-micro-services\ShopOnline.Moddels\obj\Debug\net6.0\ref\ShopOnline.Moddels.dll

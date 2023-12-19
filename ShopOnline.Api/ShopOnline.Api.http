@@ -1,0 +1,5 @@
+﻿@ShopOnline.Api_HostAddress = https://localhost:7001
+
+GET {{ShopOnline.Api_HostAddress}}/api/product
+
+###

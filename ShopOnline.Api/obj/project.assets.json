@@ -866,6 +866,16 @@
             "rid": "win"
           }
         }
+      },
+      "ShopOnline.Moddels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ShopOnline.Moddels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopOnline.Moddels.dll": {}
+        }
       }
     }
   },
@@ -2423,12 +2433,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ShopOnline.Moddels/1.0.0": {
+      "type": "project",
+      "path": "../ShopOnline.Moddels/ShopOnline.Moddels.csproj",
+      "msbuildProject": "../ShopOnline.Moddels/ShopOnline.Moddels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.0",
+      "ShopOnline.Moddels >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -2462,7 +2478,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Moddels\\ShopOnline.Moddels.csproj": {
+              "projectPath": "C:\\Users\\koand\\source\\repos\\ShopOnline-micro-services\\ShopOnline.Moddels\\ShopOnline.Moddels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
